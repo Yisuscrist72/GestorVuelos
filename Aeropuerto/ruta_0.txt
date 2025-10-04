@@ -1,0 +1,6 @@
+---
+Flight: AGP to MAD
+Carrier: Iberia Airlines
+Duration: 56 minutes
+Total Cost: 116 euros
+---
